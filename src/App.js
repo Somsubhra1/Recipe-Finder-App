@@ -6,7 +6,7 @@ import Spinner from "./components/Spinner";
 const App = () => {
     const [recipes, setRecipes] = useState([]);
     const [search, setSearch] = useState("");
-    const [query, setQuery] = useState("chicken");
+    const [query, setQuery] = useState("vegetable");
 
     useEffect(() => {
         const APP_ID = process.env.REACT_APP_API_ID;
