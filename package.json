@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "private": true,
-  "homepage": "https://somsubhra.github.io/Recipe-Finder-App",
+  "homepage": "https://somsubhra1.github.io/Recipe-Finder-App",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
