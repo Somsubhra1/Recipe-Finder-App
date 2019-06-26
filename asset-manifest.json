@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Recipe-Finder-App/static/css/main.a5ce0803.chunk.css",
+    "main.js": "/Recipe-Finder-App/static/js/main.0c8aeeba.chunk.js",
+    "main.js.map": "/Recipe-Finder-App/static/js/main.0c8aeeba.chunk.js.map",
+    "runtime~main.js": "/Recipe-Finder-App/static/js/runtime~main.2b5df883.js",
+    "runtime~main.js.map": "/Recipe-Finder-App/static/js/runtime~main.2b5df883.js.map",
+    "static/js/2.db3d7f2b.chunk.js": "/Recipe-Finder-App/static/js/2.db3d7f2b.chunk.js",
+    "static/js/2.db3d7f2b.chunk.js.map": "/Recipe-Finder-App/static/js/2.db3d7f2b.chunk.js.map",
+    "index.html": "/Recipe-Finder-App/index.html",
+    "precache-manifest.04e9d2435e5075dc6b9d221b356530c3.js": "/Recipe-Finder-App/precache-manifest.04e9d2435e5075dc6b9d221b356530c3.js",
+    "service-worker.js": "/Recipe-Finder-App/service-worker.js",
+    "static/css/main.a5ce0803.chunk.css.map": "/Recipe-Finder-App/static/css/main.a5ce0803.chunk.css.map",
+    "static/media/spinner.gif": "/Recipe-Finder-App/static/media/spinner.8e9c6f69.gif"
+  }
+}
